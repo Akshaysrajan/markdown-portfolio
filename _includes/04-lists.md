@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+✋HEY THERE
+* IM A STUDENT
+* MY HOBBIES ARE
+  * CODING
+  * GAMING
+  * CYCLING
